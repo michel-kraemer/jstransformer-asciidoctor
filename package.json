@@ -1,0 +1,32 @@
+{
+  "name": "jstransformer-asciidoctor",
+  "version": "1.0.0",
+  "description": "Asciidoctor.js support for JSTransformers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-jstransformer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michel-kraemer/jstransformer-asciidoctor.git"
+  },
+  "keywords": [
+    "jstransformer",
+    "asciidoctor"
+  ],
+  "author": {
+    "name": "Michel Kraemer",
+    "url": "https://michelkraemer.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michel-kraemer/jstransformer-asciidoctor/issues"
+  },
+  "homepage": "https://github.com/michel-kraemer/jstransformer-asciidoctor#readme",
+  "dependencies": {
+    "asciidoctor": "^2.1.1"
+  },
+  "devDependencies": {
+    "test-jstransformer": "^1.0.3"
+  }
+}
