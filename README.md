@@ -1,4 +1,4 @@
-# jstransformer-asciidoctor [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+# jstransformer-asciidoctor [![Actions Status](https://github.com/michel-kraemer/jstransformer-asciidoctor/workflows/CI/badge.svg)](https://github.com/michel-kraemer/jstransformer-asciidoctor/actions) [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 This library adds AsciiDoc support via [Asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) to [JSTransformers](https://github.com/jstransformers).
 
