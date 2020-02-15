@@ -12,7 +12,8 @@
   },
   "keywords": [
     "jstransformer",
-    "asciidoctor"
+    "asciidoctor",
+    "asciidoc"
   ],
   "author": {
     "name": "Michel Kraemer",
