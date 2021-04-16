@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/michel-kraemer/jstransformer-asciidoctor#readme",
   "dependencies": {
-    "asciidoctor": "^2.2.2"
+    "asciidoctor": "^2.2.3"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.3"
